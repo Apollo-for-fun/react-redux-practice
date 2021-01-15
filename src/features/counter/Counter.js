@@ -5,9 +5,9 @@ import {
   increment,
   incrementByAmount,
   incrementAsync,
+  setStep,
   selectCount,
   selectStep,
-  setStep,
 } from './counterSlice';
 import styles from './Counter.module.css';
 
